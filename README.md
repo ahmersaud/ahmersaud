@@ -1,6 +1,6 @@
-### Hello 👋 I am Ahmer Saud.
+## Hello 👋 I am Ahmer Saud.
 
-## I am a Frontend Developer  💻 
+### I am a Frontend Developer  💻 
 
 - 🛠 I’m currently developing webapps in React ⚛️ + firebase  
 - 📖 I’m currently learning Nextjs 

@@ -2,8 +2,8 @@
 
 ### I am a Frontend Developer  💻 
 
-- 🛠 I’m currently developing webapps in React ⚛️ + firebase  
-- 📖 I’m currently learning Nextjs 
+- 🛠 I’m currently developing webapps in React ⚛️  
+- 📖 I’m currently learning Redux 
 - 📧 How to reach me: ahmersaud20@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>

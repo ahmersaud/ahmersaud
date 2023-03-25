@@ -2,8 +2,7 @@
 
 ### I am a Frontend Developer  💻 
 
-- 🛠 I’m currently developing webapps in React ⚛️  
-- 📖 I’m currently learning Redux 
+- 🛠 I’m currently developing webapps in React ⚛️ and Firebase <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="nextjs" width="40" height="40"/>
 - 📧 How to reach me: ahmersaud20@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
